@@ -23,6 +23,13 @@ export default defineConfig({
         items: [
           { text: 'API总览', link: '/api/index' }
         ]
+      },
+      {
+        text: '入驻YouYou',
+        items: [
+          { text: '介绍', link: '/docs/joinindex' },
+          { text: '申请加入群组服', link: '/docs/join' }
+        ]
       }
     ],
 

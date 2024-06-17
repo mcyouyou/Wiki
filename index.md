@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "McYouYou Wiki"
   text: "MC公益群组服务器"
-  tagline: My great project tagline
+  tagline: 
   actions:
     - theme: brand
       text: 点击开始

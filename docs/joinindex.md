@@ -1,1 +1,15 @@
-# McYouYou World
+# Project: MCyouyou World
+
+## 简介
+Project: MCyouyou World是由MCyouyou公益服务器发起的一项开放MC项目。  
+该项目是一个综合性MC服务建设项目，无偿对国内公益服务器提供接入使用。
+
+## 项目内容
+### 特别鸣谢
+- 原项目：MCyouyou公益群组服&社区
+
+### 基础设施
+- YouYou Union（社区门户应用&网站）
+- Open Minecraft Connect Platform（MC联机服务平台&服务器快速同步整合）
+- Project: MCyouyou World Web API（网页API后端）
+- Static Files Host（静态文件存储托管）

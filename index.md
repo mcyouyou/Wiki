@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "MCyouyou Wiki"
-  text: "MCyouyou公益群组服 & Project: MCyouyou World"
-  tagline: 
+  text: 
+  tagline: "MCyouyou公益群组服 & Project: MCyouyou World"
   actions:
     - theme: brand
       text: 点击开始

@@ -9,7 +9,6 @@ Project: MCyouyou World是由MCyouyou公益服务器发起的一项开放MC项�
 - 原项目：MCyouyou公益群组服&社区
 
 ### 基础设施
-
 - Open Minecraft Connect Platform（MC联机服务平台&服务器快速同步整合）
 - Static Files Host（静态文件存储托管）
 - Project: MCyouyou World Web API（网页API后端）
